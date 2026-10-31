@@ -1,0 +1,20 @@
+{
+  "name": "Suspicious — Mystery Party Game",
+  "short_name": "Suspicious",
+  "description": "Pass and play party mystery game where players uncover the hidden imposter. Works 100% offline.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#FAFAFA",
+  "theme_color": "#FAFAFA",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512 any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games", "entertainment"]
+}

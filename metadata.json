@@ -1,0 +1,6 @@
+{
+  "name": "Suspicious",
+  "description": "A secret word party mystery game where citizens find out who is the imposter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
